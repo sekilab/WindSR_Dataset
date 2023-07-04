@@ -4,7 +4,7 @@
   <a href="https://github.com/sekilab/WindSR_Dataset">
     <img src="media/logo.png" alt="Logo" width="auto" height="175">
   </a>
-
+</div>
 
 ![Animation](media/wind_speed_animation_latest.gif)
 
@@ -12,7 +12,7 @@ The WindSR Dataset contains more than 22,000 pairs of low-resolution/high-resolu
 
 
 Here is a sample from the dataset:
-</div>
+
 <div align="center">
 
 ![High Resolution Sample](media/hrlr_sample.png)
