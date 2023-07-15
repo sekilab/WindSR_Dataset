@@ -18,6 +18,7 @@ Here is a sample HR/LR pair from the WindSR dataset:
 ![High Resolution Sample](media/hrlr_sample.png)
 
 To understand how the dataset is prepared, you can read our paper published in the IEEE Access journal.
+
 <a href="https://ieeexplore.ieee.org/document/10174644"><strong>WindSR: Improving Spatial Resolution of Satellite Wind Speed Through Super-Resolution»</strong></a>
 
 </div>
