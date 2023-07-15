@@ -50,5 +50,14 @@ print('LR_TRAIN shape:', LR_TRAIN.shape)
 ```
 
 ## Citation
-
-- Coming soon!
+```csv
+@ARTICLE{10174644,
+  author={Kumar, Ashutosh and Islam, Tanvir and Ma, Jue and Kashiyama, Takehiro and Sekimoto, Yoshihide and Mattmann, Chris},
+  journal={IEEE Access}, 
+  title={WindSR: Improving Spatial Resolution of Satellite Wind Speed Through Super-Resolution}, 
+  year={2023},
+  volume={11},
+  number={},
+  pages={69486-69494},
+  doi={10.1109/ACCESS.2023.3292966}}
+```
